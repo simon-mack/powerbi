@@ -1,0 +1,23 @@
+Some background before I get started -- The Offices of Mental Health operates psychiatric centers and oversees mental health programs across the state of New York. They have asked me to give them actionable insights on how they can better serve their transgender patients outside of transition-related care. 
+
+I created this dashboard using their patient survey from 2017, which recorded information about every patient during a particular week in 2017. Of the around 175,000 patients surveyed at that time, about 1800 of them were transgender. Let's dive in to what I found.
+
+I have three recommendations for the OMH. The first is based on the chart here at the top left. This is a map showing the number of trans patients in each region served by the OMH. The highest proportion of trans patients by far was in the New York City region. For this reason, I'd recommend the New York City region as a starting place in developing and improving trans-related programs. 
+
+My second recommendation is based on these three charts. In the top middle, you can see that transgender patients were far more likely than cisgender patients to have a sexuality other than straight. 
+
+At the top right, I've identified the percentages of trans and cis patients who are on the autism spectrum. The OMH's trans patients are much more likely to be on the austism spectrum than their cis counterparts.
+
+Over at the bottom left is a breakdown of trans patients by their race, and almost half of trans patients are people of color.
+
+Based on these charts, the OMH's trans patients are very likely to be members of more than one marginalized community. I recommend that the OMH ensures its mental health providers and program leadership are members of those communities or at the very least are well trained and familiar with the issues each of those marginalized communities face.
+
+My final recommendation is based on the chart in the bottom right. This shows us the percent of adult trans patients in the work force that are employed or unemployed. Then, those categories are further broken down by the highest level of education those trans patients recieved. 
+
+Because a steady source of income is vital to overall health but especially mental health, it's important that the OMH has programs available to trans patients that will help them get a job. Because the majority of unemployed trans patients only received a middle or high school education, I would focus on a developing a program that helps trans patients earn their GED or pursue postsecondary education.
+
+Those are all of my recommendations, but I'll be sending the OMH this dashboard so they can use it as a tool to dive deeper into their trans patient data. For example, if they wanted to focus on Black trans patients, they could click this and see that more Black trans patients are unemployed than employed, so an education or job-focused program would be even more important for them. 
+
+That's all I have. Thank you for having me. Are there any questions?
+
+
